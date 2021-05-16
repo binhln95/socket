@@ -1,0 +1,6 @@
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\bin\Debug\Common.dll
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\bin\Debug\Common.pdb
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\obj\Debug\Common.dll
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\obj\Debug\Common.pdb
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Common\obj\Debug\Common.csprojAssemblyReference.cache

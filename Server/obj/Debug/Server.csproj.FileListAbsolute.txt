@@ -1,0 +1,13 @@
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\bin\Debug\Server.exe.config
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\bin\Debug\Server.exe
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\bin\Debug\Server.pdb
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.Server.resources
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.exe
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.pdb
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\bin\Debug\Common.dll
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\bin\Debug\Common.pdb
+C:\Users\binhl\OneDrive\Documents\code\ClientServer\Server\obj\Debug\Server.csproj.CopyComplete
